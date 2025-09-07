@@ -5,13 +5,13 @@ I am a software developer specializing in blockchain, smart contracts, and moder
 ## 🚀 Selected Projects
 
 - [Monad Explorer](https://github.com/ashitosh07/monad-explorer)  
-  *Explorer for the Monad blockchain, built with JavaScript. [Live Demo](https://monad-explorer-blue.vercel.app)*
+  *Explorer for the Monad blockchain, built with JavaScript. [Live Demo](https://monad-explorer.netlify.app/)*
 
 - [Abstract DEX](https://github.com/ashitosh07/abstract-dex)  
   *Decentralized exchange platform powered by Solidity and TypeScript.*
 
 - [NFT Dashboard](https://github.com/ashitosh07/nft-dashboard)  
-  *Comprehensive dashboard for tracking and analyzing NFT assets. [Live Demo](https://nft-dashboard-seven-rose.vercel.app)*
+  *Comprehensive dashboard for tracking and analyzing NFT assets. [Live Demo](https://monad-nft-dashboard.vercel.app/)*
 
 - [HocusPocusLive](https://github.com/ashitosh07/HocusPocusLive)  
   *Real-time web application — details coming soon.*
