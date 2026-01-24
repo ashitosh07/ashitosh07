@@ -14,7 +14,7 @@ I am a software developer specializing in blockchain, smart contracts, and moder
   *Comprehensive dashboard for tracking and analyzing NFT assets. [Live Demo](https://monad-nft-dashboard.vercel.app/)*
 
 - [HocusPocusLive](https://github.com/ashitosh07/HocusPocusLive)  
-  *Real-time web application — details coming soon.*
+  *Real-time web application*
 
 - [Monad Smart Contract](https://github.com/ashitosh07/monad-smart-contract)  
   *Smart contracts for the Monad blockchain ecosystem.*
