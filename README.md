@@ -55,6 +55,5 @@ SQL Server, MySQL, PostgreSQL, MongoDB
 
 ## 📫 Connect with Me
 
-- [Twitter/X](https://x.com/ashitosh36787?t=Y8ap3qmUTUVvm4SZ3v4v3Q&s=09)
 - [LinkedIn](https://www.linkedin.com/in/ashitosh-kamble-64a053229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [GitHub](https://github.com/ashitosh07)
